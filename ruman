@@ -1,0 +1,7 @@
+#! /bin/bash
+
+#Quick russian man opener
+
+man -L ru_RU.utf8 $1
+
+
